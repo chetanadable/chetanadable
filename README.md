@@ -24,20 +24,19 @@
 ### 🐍 Programming & Machine Learning
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 - **Machine Learning** (SVM, CNN, Classification Models)
-
-
+  
 ---
 
 ## 📌 Projects
 ---
 
-### 📊 Data Analyst (Power BI)
-• Built interactive dashboards using Excel & Power BI
-• Created MTD, QTD, YTD KPIs and business reports
-• Performed data cleaning, analysis & visualization
-• Tools: Excel, SQL, Power BI, Python
-
+## 📊 Blinkit Sales Analytics Dashboard  
+- Designed an **interactive Power BI dashboard**
+- KPIs: **Total Sales, Avg Sales, No. of Items, Avg Rating**
+- Filters by **Outlet Size, Location & Item Type**
+- Used slicers, cards, donut charts & trend analysis  
 🔗 *https://github.com/chetanadable/Blinkit-Dashboard*
+
 ---
 ### 📦 Supply Chain Management Dashboard (Tableau)  
 - Built an **end-to-end supply chain analytics dashboard**  

@@ -1,12 +1,35 @@
-https://www.joinhgs.com/in/en/insights/hgs-digital-blogs/how-to-become-a-data-analyst
-<h1 align="center">Hi 👋, I'm Chetana Dable</h1>
-<h3 align="center">A passionate Data Analyst & aspiring Data Scientist from India 📊</h3>
+👋 Hi, I'm Chetana Dable
 
-- 👨‍💻 All of my projects are available at [https://github.com/chetanadable](https://github.com/chetanadable)
+🎓 Final-year B.Tech Computer Technology student
+📊 Aspiring Data Analyst / Data Scientist
+💻 Passionate about turning data into actionable insights
+📍 India 🇮🇳
 
-- 📫 How to reach me **chetanadable5@gmail.com**
+🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chetana-dable-0962b8238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chetana-dable-0962b8238/" height="30" width="40" /></a>
+🔍 Interested in Data Analytics, Data Science & Machine Learning
 
+📈 Strong in Excel, SQL, Power BI, Tableau
+
+🧠 Hands-on experience with Python & ML algorithms
+
+🌱 Currently improving skills in Advanced Analytics & Visualization
+
+🤝 Open to internships, entry-level roles & collaborations
+
+🛠️ Skills & Tools
+📊 Data Analytics
+
+Excel (Advanced formulas, Pivot Tables, KPIs, Dashboards)
+
+SQL (Joins, Subqueries, Aggregations)
+
+Power BI (DAX, Data Modeling, Interactive Dashboards)
+
+Tableau
+
+🐍 Programming & ML
+
+Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+Machine Learning (SVM, CNN, Classification Models)

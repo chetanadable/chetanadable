@@ -59,7 +59,6 @@ Self Projects
 - Built interactive dashboards in Power BI with KPIs such as MTD, QTD, YTD, Total Sales, and Avg Sales
 - Cleaned and transformed raw data using Power Query & Python (Pandas)
 - Designed dashboards with slicers, cards, charts, and filters for business decision-making
-
 Performed trend analysis and performance tracking
 ---
 

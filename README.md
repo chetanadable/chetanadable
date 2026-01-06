@@ -25,31 +25,17 @@
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 - **Machine Learning** (SVM, CNN, Classification Models)
 
-### 🌐 Web & Development
-- HTML | CSS | JavaScript  
-- React.js | Node.js | Express.js  
-- MySQL | PHP  
-- Zoho Creator  
-- .NET
 
 ---
 
 ## 📌 Projects
-
-### 🌾 Paddy Leaf Disease Detection
-**Channel Attention-Driven Hybrid CNN Framework**
-- Implemented CNN + SVM for disease classification
-- Improved accuracy using attention mechanisms
-- Focused on agricultural disease detection
-
-🔗 *Project link coming soon*
-
 ---
 
-### 📊 Sales Analytics Dashboard
-- Created MTD, QTD, YTD KPIs
-- Built interactive dashboards using Excel & Power BI
-- Designed slicers, cards & visual insights
+### 📊 Blinkit Sales Analytics Dashboard  
+- Designed an **interactive Power BI dashboard**
+- KPIs: **Total Sales, Avg Sales, No. of Items, Avg Rating**
+- Filters by **Outlet Size, Location & Item Type**
+- Used slicers, cards, donut charts & trend analysis  
 
 🔗 *Project link coming soon*
 
@@ -57,16 +43,15 @@
 
 ## 💼 Experience
 
-### 💻 Software Developer Intern  
-**May 2024 – Oct 2024**
-- Worked on full-stack development projects
-- Built and maintained real-world applications
+📊 Data Analyst Intern
 
-### 🌐 Full Stack Intern (.NET)  
-**IT NetworkZ | Mar 2023 – May 2023**
-- Developed web modules using .NET
-- Gained hands-on industry experience
+Self Projects
+- Analyzed large datasets using Excel, SQL, and Python to extract actionable insights
+- Built interactive dashboards in Power BI with KPIs such as MTD, QTD, YTD, Total Sales, and Avg Sales
+- Cleaned and transformed raw data using Power Query & Python (Pandas)
+- Designed dashboards with slicers, cards, charts, and filters for business decision-making
 
+Performed trend analysis and performance tracking
 ---
 
 ## 📫 Connect With Me
@@ -76,16 +61,4 @@
 - 💻 GitHub: You’re already here 😄
 
 ---
-
-## 📊 GitHub Stats
-
-![Chetana's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetanadable&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetanadable&layout=compact&theme=radical)
-
----
-
-### ✨ Quote
-> “Data becomes valuable when it tells a story.”
-
 

@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-🎓 ** Graudate B.Tech Computer Technology** student  
+🎓 **Graudate B.Tech Computer Technology** student  
 📈 Interested in **Data Analytics, Data Science & Machine Learning**  
 💡 Love working with data to uncover insights and solve real-world problems  
 🤝 Open to **internships, entry-level roles & collaborations**

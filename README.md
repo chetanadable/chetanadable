@@ -1,3 +1,4 @@
+https://www.joinhgs.com/in/en/insights/hgs-digital-blogs/how-to-become-a-data-analyst
 <h1 align="center">Hi 👋, I'm Chetana Dable</h1>
 <h3 align="center">A passionate Data Analyst & aspiring Data Scientist from India 📊</h3>
 

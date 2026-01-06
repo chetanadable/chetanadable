@@ -30,7 +30,7 @@
 ## 📌 Projects
 ---
 
-## 📊 Blinkit Sales Analytics Dashboard  
+## 📊 Blinkit Sales Analytics Dashboard (Power Bi)  
 - Designed an **interactive Power BI dashboard**
 - KPIs: **Total Sales, Avg Sales, No. of Items, Avg Rating**
 - Filters by **Outlet Size, Location & Item Type**
@@ -45,7 +45,7 @@
 - Implemented filters by **Year, Region & Purchase Method**  
 - Delivered insights to improve **inventory & sales planning**
 
-🔗 *Tableau Public / GitHub link coming soon*
+🔗 *https://github.com/chetanadable/Supply-Chain-Management/tree/main*
 
 
 ###

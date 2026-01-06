@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749693-5f1b4b3f-6a36-4a3f-bd77-8e1e53a3c9a6.gif" width="300"/>
-</p>
 # 👋 Hi, I'm Chetana Dable
 
 ### 📊 A passionate Data Analyst & aspiring Data Scientist from India 🇮🇳

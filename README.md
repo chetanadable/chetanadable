@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-🎓 Final-year **B.Tech Computer Technology** student  
+🎓 ** Graudate B.Tech Computer Technology** student  
 📈 Interested in **Data Analytics, Data Science & Machine Learning**  
 💡 Love working with data to uncover insights and solve real-world problems  
 🤝 Open to **internships, entry-level roles & collaborations**
@@ -31,15 +31,25 @@
 ## 📌 Projects
 ---
 
-### 📊 Blinkit Sales Analytics Dashboard  
-- Designed an **interactive Power BI dashboard**
-- KPIs: **Total Sales, Avg Sales, No. of Items, Avg Rating**
-- Filters by **Outlet Size, Location & Item Type**
-- Used slicers, cards, donut charts & trend analysis  
+### 📊 Data Analyst (Power BI)
+• Built interactive dashboards using Excel & Power BI
+• Created MTD, QTD, YTD KPIs and business reports
+• Performed data cleaning, analysis & visualization
+• Tools: Excel, SQL, Power BI, Python
 
-🔗 *Project link coming soon*
-
+🔗 *https://github.com/chetanadable/Blinkit-Dashboard*
 ---
+### 📦 Supply Chain Management Dashboard (Tableau)  
+- Built an **end-to-end supply chain analytics dashboard**  
+- KPIs: **Total Sales, YTD Sales, QTD, Total Inventory, Sales Growth**  
+- Analyzed **region-wise sales, stock status & purchase methods**  
+- Implemented filters by **Year, Region & Purchase Method**  
+- Delivered insights to improve **inventory & sales planning**
+
+🔗 *Tableau Public / GitHub link coming soon*
+
+
+###
 
 ## 💼 Experience
 
@@ -58,7 +68,7 @@ Performed trend analysis and performance tracking
 
 - 💼 LinkedIn: *(https://www.linkedin.com/in/chetana-dable-0962b8238/)*
 - 📧 Email: *(chetanadable5@gmail.com)*
-- 💻 GitHub: You’re already here 😄
+- 💻 GitHub: *(github.com/chetanadable)*
 
 ---
 
